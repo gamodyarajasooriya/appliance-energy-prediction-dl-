@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+ipykernel
+# Deep learning framework (e.g., torch or tensorflow) can be added here
