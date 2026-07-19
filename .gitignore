@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Trained models
+models/*.pkl
+models/*.h5
+
