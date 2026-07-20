@@ -1,4 +1,4 @@
-# Appliance Energy Prediction — Time-Series Forecasting
+# Appliance Energy Prediction - Time-Series Forecasting
 
 Predicts household appliance energy consumption (Wh) using multivariate time-series data (indoor/outdoor temperature, humidity, weather, and time-based features) recorded at 10-minute intervals over 137 days (Candanedo et al., 2017 dataset).
 
