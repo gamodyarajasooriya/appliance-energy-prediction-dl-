@@ -217,7 +217,11 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Trained models
+# Heavy model artifacts exceeding GitHub limits
 models/*.pkl
 models/*.h5
-
+models/*.keras
+!models/.gitkeep
+!models/robust_scaler.pkl
+!models/lstm_minmax_scaler.pkl
+!models/bc_lambda.pkl
