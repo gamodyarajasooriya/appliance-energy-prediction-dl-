@@ -75,4 +75,7 @@ Full methodology, EDA, feature engineering, and experimental results are documen
 Trained model files exceeding GitHub's 100MB limit are excluded via `.gitignore`. Re-run notebooks 03–05 to regenerate all models locally.
 
 ## References
-Candanedo, L., Feldheim, V., Deramaix, D. (2017). *Data driven prediction models of energy use of appliances in a low-energy house.* Energy and Buildings, 140, 81–97.
+
+1. Candanedo, L., Feldheim, V., Deramaix, D. (2017). *Data driven prediction models of energy use of appliances in a low-energy house.* Energy and Buildings, 140, 81–97. https://doi.org/10.1016/j.enbuild.2017.01.083
+2. Al-Obeidat, F., Tubaishat, A., Shah, B., Delen, D. (2022). *Deep learning-based sequence modeling for residential energy consumption prediction using multivariate time-series data.* Journal of Big Data, 9(1), 45–68. https://doi.org/10.1186/s40537-022-00591-2
+3. Pan, H., Tang, X., Wang, J., Zhou, B. (2020). *A hybrid CNN-GRU deep learning strategy for residential energy prediction.* Energies, 13(12), 3241. https://doi.org/10.3390/en13123241
